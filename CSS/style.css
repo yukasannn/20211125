@@ -1,5 +1,5 @@
-.html {
-  max-width: 1000px;
+html {
+  max-width: 1500px;
 }
 
 a {
@@ -7,7 +7,7 @@ a {
   color: inherit;
 }
 
-.header {
+header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -33,11 +33,27 @@ a {
 
 h1 {
   font-weight: normal;
-  align-items: baseline;
   font-size: 70px;
-  margin: 350px 0 0 0;
 }
 
 .article {
   position: relative;
+  margin-top: 450px;
+}
+
+img {
+  width: 50vw;
+}
+
+.item1 {
+  width: 80vw;
+  height: 180px;
+  background-color: darkblue;
+  margin-bottom: 40px;
+}
+
+.item2 {
+  position: absolute;
+  bottom: 70px;
+  right: 0px;
 }
