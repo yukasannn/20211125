@@ -33,12 +33,12 @@ header {
 
 h1 {
   font-weight: normal;
-  font-size: 70px;
+  font-size: 50px;
 }
 
 .article {
   position: relative;
-  margin-top: 450px;
+  margin-top: 370px;
 }
 
 img {
@@ -46,14 +46,14 @@ img {
 }
 
 .item1 {
-  width: 80vw;
-  height: 180px;
+  width: 70vw;
+  height: 160px;
   background-color: darkblue;
   margin-bottom: 40px;
 }
 
 .item2 {
   position: absolute;
-  bottom: 70px;
+  bottom: 80px;
   right: 0px;
 }
